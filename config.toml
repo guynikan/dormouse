@@ -28,4 +28,4 @@ theme = "anatole"
   author = "Edson Batista"
   description = "Call me Ed"
   profilePicture = "images/picture-1.png"
-  customJs = ["js/hello.js"]
+  customJs = ["js/konami-code.js"]
