@@ -1,0 +1,31 @@
+baseURL = "http://example.org/"
+languageCode = "pt-br"
+title = "Edson Batista"
+theme = "anatole"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
+
+  [params]
+  title = "Hello! :)"
+  author = "Edson Batista"
+  description = "Call me Ed"
+  profilePicture = "images/picture-1.png"
+  customJs = ["js/hello.js"]
