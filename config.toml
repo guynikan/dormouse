@@ -18,8 +18,14 @@ theme = "anatole"
   url = "/post/"
 
   [[menu.main]]
-  name = "About"
+  name = "Portfólio"
   weight = 300
+  identifier = "portfolio"
+  url = "/portfolio/"
+
+    [[menu.main]]
+  name = "Sobre"
+  weight = 400
   identifier = "about"
   url = "/about/"
 
