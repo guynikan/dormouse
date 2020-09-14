@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "pt-br"
 title = "Edson Batista"
 theme = "anatole"
+contentDir = "content/post"
 
 [menu]
 
