@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "pt-br"
 title = "Edson Batista"
 theme = "anatole"
-contentDir = "content/post"
+
 
 [menu]
 
@@ -24,7 +24,7 @@ contentDir = "content/post"
   identifier = "portfolio"
   url = "/portfolio/"
 
-    [[menu.main]]
+  [[menu.main]]
   name = "Sobre"
   weight = 400
   identifier = "about"
