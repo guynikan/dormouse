@@ -16,7 +16,7 @@ contentDir = "content/post"
   name = "Posts"
   weight = 200
   identifier = "posts"
-  url = "/post/"
+  url = "/posts/"
 
   [[menu.main]]
   name = "Portfólio"
