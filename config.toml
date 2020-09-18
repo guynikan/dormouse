@@ -31,12 +31,13 @@ theme = "anatole"
   url = "/about/"
 
   [params]
-  title = "Hello! :)"
   author = "Edson Batista"
-  description = "Just call me Ed. I'm 25 years old, brazilian and web developer. Feel free to send me a message in any of my places"
-  profilePicture = "images/picture-1.png"
   customJs = ["js/konami-code.js"]
+  description = "Just call me Ed. I'm 25 years old, brazilian and web developer. Feel free to send me a message in any of my places"
   displayMode = "dark"
+  googleAnalytics = "UA-178405238-1"
+  profilePicture = "images/picture-1.png"
+  title = "Hello! :)"
 
   ## Social links
 [[params.socialIcons]]
