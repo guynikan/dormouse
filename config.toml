@@ -3,6 +3,8 @@ languageCode = "pt-br"
 title = "Edson Batista"
 theme = "anatole"
 
+# Google Analytics
+googleAnalytics = "UA-178405238-1"
 
 [menu]
 
@@ -35,7 +37,6 @@ theme = "anatole"
   customJs = ["js/konami-code.js"]
   description = "Just call me Ed. I'm 25 years old, brazilian and web developer. Feel free to send me a message in any of my places"
   displayMode = "dark"
-  googleAnalytics = "UA-178405238-1"
   profilePicture = "images/picture-1.png"
   title = "Hello! :)"
 
