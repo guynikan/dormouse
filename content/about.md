@@ -11,12 +11,6 @@ Já passei pelas área de Qualidade de Software, Sustentação
 e atualmente meu foco é mais em Front End, mas eu gosto de me envolver 
 em todo o processo de construção de um software, desde sua concepção até a manutenção.
 
-Na adolescência eu tive alguns blogs. Sim, alguns.
-
-Tive um blog de [Terror](https://dunkell.blogspot.com/), um de comédia e até mesmo um de jogos!
-(Os outros dois eu me recuso a colocar o link ahahah)
-
-
 Nessa época eu fazia algumas ilustrações digitais também e por conta disso fui convidado por um conhecido de Fortaleza a escrever no blog dele sobre o assunto.
 
 |                                                                                                                                             |                                                                                                                                                   |
@@ -31,8 +25,10 @@ Atualmente estou apenas estudando e nas horas vagas eu faço algumas kata's no c
 
 ![Alt text](https://www.codewars.com/users/jreeeedd/badges/large)
 
+E essas são algumas ferramentas que utilizo nos meus projetos e consequentemente sobre o que eu escrevo também:
+
 Mas nem só de programação vive o homem, então eu assisto algumas [séries](https://www.tvtime.com/en/user/29979508/profile
-) as vezes também e em tempos pré-pandemia eu gostava bastante de escalar e brincar de slackline.
+) as vezes e em tempos pré-pandemia eu gostava bastante de escalar e brincar de slackline também.
 
 Ah sim! sou bem ativo no twitter. Então se você quiser saber as 💩 que eu falo em tempo real, é só me seguir lá! 
 
@@ -40,6 +36,8 @@ Outras curiosidades sobre mim:
 
 - Adoro falar errado
 - Trabalhei como bartender durante 2 anos
+- Durante minha adolescência eu tive um blog de [terror](https://dunkell.blogspot.com/)
+- Amo uma ficção científica.
 - Fiz capoeira quando moleque
 - Faço parte do [perifacode](https://perifacode.com/)
 - Nasci em Taipas, fui criado em Tiradentes e atualmente moro em Pirituba.

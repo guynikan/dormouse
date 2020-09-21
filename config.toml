@@ -35,7 +35,7 @@ googleAnalytics = "UA-178405238-1"
   [params]
   author = "Edson Batista"
   customJs = ["js/konami-code.js"]
-  description = "Just call me Ed. I'm 25 years old, brazilian and web developer. Feel free to send me a message in any of my places"
+  description = "Just call me Ed. I'm a 25 years old brazilian and web developer. Feel free to send me a message in any of my places"
   displayMode = "dark"
   profilePicture = "images/picture-1.png"
   title = "Hello! :)"
