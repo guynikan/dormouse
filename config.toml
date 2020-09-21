@@ -57,6 +57,11 @@ title = "instagram"
 url = "https://www.instagram.com/eed.b/"
 
 [[params.socialIcons]]
+icon = "fa-twitter"
+title = "twitter"
+url = "https://twitter.com/jreeeeedd"
+
+[[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
 url = "mailto:jr.edsonbatista@outlook.com.br"
