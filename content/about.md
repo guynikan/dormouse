@@ -20,6 +20,7 @@ Nessa época eu fazia algumas ilustrações digitais também e por conta disso f
 
 ![japex_by_xdarxxxpunx_d8cvwjl-pre](https://user-images.githubusercontent.com/36284169/93805140-acb4c280-fc1d-11ea-95c0-f7c5c9ea5e18.jpg)
 
+Hoje em dia eu ainda desenho, mas com bem menos frequência que antigamente...
 
 Atualmente estou apenas estudando e nas horas vagas eu faço algumas kata's no codewars.
 
